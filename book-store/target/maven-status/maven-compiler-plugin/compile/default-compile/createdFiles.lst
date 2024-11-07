@@ -1,0 +1,5 @@
+com\applicationdao\BookDAO.class
+com\applicationentities\Book.class
+com\applicationservice\BookServicePublisher.class
+com\applicationservice\BookServiceImplementation.class
+com\applicationservice\BookServiceInterface.class
